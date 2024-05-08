@@ -1,4 +1,4 @@
-baseURL = 'https://peterdotw.github.io/bouchery-site/'
+baseURL = 'https://peterdotw.github.io/'
 languageCode = 'en-us'
 title = 'Sanctuary of Bouchery'
 theme = 'bouchery-site-main'
