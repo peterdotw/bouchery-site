@@ -2,6 +2,7 @@ baseURL = 'https://peterdotw.github.io/bouchery-site/'
 languageCode = 'en-us'
 title = 'Sanctuary of Bouchery'
 theme = 'bouchery-site-main'
+canonifyURLs = true
 [taxonomies]
   tag = 'tags'
 [[menu.main]]
